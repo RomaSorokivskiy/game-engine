@@ -1,3 +1,5 @@
 GameEngine/bin/
 GameEngine/bin-int/
+GameEngine/**/*.sln
+GameEngine/**/*.vcxproj
 .vs
